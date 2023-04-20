@@ -1,0 +1,44 @@
+/* style.css */
+body {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
+Geneva, Verdana, sans-serif;
+}
+
+.bg-header {
+    border: 10px yellow solid;
+    height: 10em;
+    padding: 5em;   
+    background-image: url("../imgs/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    }
+header h1 {
+    color: rgb(208, 255, 0);
+    text-align: center;
+    }
+header p{
+    color: rgb(208, 255, 0);
+    text-align: center;
+}
+.container{
+    margin-top: 50px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.img-1 td{
+    color: black;
+    padding-left: 150px;
+    margin-bottom: 150px;
+    
+}
+footer{
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+
